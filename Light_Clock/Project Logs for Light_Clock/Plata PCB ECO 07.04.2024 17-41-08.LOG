@@ -1,0 +1,4 @@
+Added Component: Designator=ZQ1(Quartz)
+Added Pin To Net: NetName=NetC8_1 Pin=ZQ1-1
+Added Pin To Net: NetName=NetC7_1 Pin=ZQ1-2
+Added Member To Class: ClassName=Sxem Member=Component ZQ1 Quartz_8MGz_THT_HC-49S
