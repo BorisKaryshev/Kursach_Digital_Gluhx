@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetDD1_25 Pin=R18-2
+Removed Pin From Net: NetName=NetDD1_26 Pin=R19-2
+Removed Pin From Net: NetName=NetDD1_27 Pin=R20-2
+Removed Pin From Net: NetName=NetDD1_28 Pin=R21-2
+Removed Pin From Net: NetName=NetC1_2 Pin=XS1-5
+Removed Pin From Net: NetName=NetC1_2 Pin=XS4-1
+Change Component Comment : Designator=VT3 Old Comment=2SA1015 New Comment=2N7002
+Change Component Comment : Designator=VT4 Old Comment=2SA1015 New Comment=2N7002
+Change Component Comment : Designator=VT5 Old Comment=2SA1015 New Comment=2N7002
+Change Component Comment : Designator=VT6 Old Comment=2SA1015 New Comment=2N7002
+Added Pin To Net: NetName=NetDD1_25 Pin=VT3-1
+Added Pin To Net: NetName=NetDD1_26 Pin=VT4-1
+Added Pin To Net: NetName=NetDD1_27 Pin=VT5-1
+Added Pin To Net: NetName=NetDD1_28 Pin=VT6-1
+Added Pin To Net: NetName=NetXS1_5 Pin=XS1-5
+Added Pin To Net: NetName=NetXS1_5 Pin=XS4-1
+Added Net: Name=NetXS1_5
+Added Member To Class: ClassName=Sxem Member=Component VT3 2N7002
+Added Member To Class: ClassName=Sxem Member=Component VT4 2N7002
+Added Member To Class: ClassName=Sxem Member=Component VT5 2N7002
+Added Member To Class: ClassName=Sxem Member=Component VT6 2N7002

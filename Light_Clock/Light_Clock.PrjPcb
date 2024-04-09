@@ -117,6 +117,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EPLVBJTC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Light_Clock\Design Rule Check - Plata.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
